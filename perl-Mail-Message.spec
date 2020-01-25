@@ -4,7 +4,6 @@
 #
 %define		pdir	Mail
 %define		pnam	Message
-%include	/usr/lib/rpm/macros.perl
 Summary:	Mail::Message - general message object
 Name:		perl-Mail-Message
 Version:	3.008
